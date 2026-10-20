@@ -1,16 +1,21 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository contains the OctoAcme project management process documentation used to guide project work from initiation through delivery and continuous improvement.
 
-Hey lkacso!
+## Project management process summary
+OctoAcme uses a lightweight, cross-functional project lifecycle that begins with initiation, moves into planning and backlog definition, manages execution and tracking through daily work and milestones, and closes with release, retrospective, and improvement actions. The process emphasizes customer value, clear ownership, deliberate communication, risk management, and measurable outcomes.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+The program is structured around distinct roles: product leaders define outcomes and prioritize work, project managers coordinate schedules and dependencies, developers deliver the solution, QA validates acceptance criteria, and stakeholders provide input and approval. Communication is intentionally regular, with weekly check-ins, standups, milestone updates, and escalation paths for blockers or risks. Quality is built into the workflow through clear acceptance criteria, CI checks, testing, release verification, and retrospectives that convert lessons into improvement actions.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Documentation index
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation Guide](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](docs/octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](docs/octoacme-roles-and-personas.md)
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/lkacso/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+## How to use these docs
+Use these documents to align the team on roles, plan work, track execution, manage risks and communication, and improve process quality over time. They are intended to provide a repeatable project management foundation for cross-functional delivery across the full lifecycle.
